@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Sergey Veldyatskikh](https://up.htmlacademy.ru/javascript/32/user/2106113).
-* Наставник: `Неизвестно`.
+- Студент: [Sergey Veldyatskikh](https://up.htmlacademy.ru/javascript/32/user/2106113).
+- Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
 
